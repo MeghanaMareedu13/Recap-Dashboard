@@ -19,7 +19,7 @@ To celebrate, I built a **Week 1 Recap Dashboard** using **Streamlit** to showca
 ✅ **Day 6**: Developed an Interactive Sales Dashboard (Insights).
 
 **The Reflection:**
-The transition from my internship at Virtusa to completing graduate studies at TTU has been a journey of constant adaptation. This week proved that I don't just know the theory—I can execute, document, and deploy.
+The transition from my previous internship to completing graduate studies at TTU has been a journey of constant adaptation. This week proved that I don't just know the theory—I can execute, document, and deploy.
 
 **What’s Next?** 
 Week 2 is all about **Technical Depth**. We’re going deeper into real-time pipelines, web scraping, and system design. 
@@ -33,7 +33,7 @@ Week 2 is all about **Technical Depth**. We’re going deeper into real-time pip
 
 ---
 
-#30DayChallenge #Week1Recap #Streamlit #DataEngineering #SoftwareEngineer #OpenToWork #CareerGrowth #TexasTech #Virtusa #TechnicalPortfolio
+#30DayChallenge #Week1Recap #Streamlit #DataEngineering #SoftwareEngineer #OpenToWork #CareerGrowth #TexasTech #TechnicalPortfolio
 
 ---
 

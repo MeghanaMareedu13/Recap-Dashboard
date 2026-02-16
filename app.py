@@ -33,7 +33,7 @@ col1, col2 = st.columns(2)
 with col1:
     with st.expander("Day 1: Personal Portfolio Website", expanded=True):
         st.write("**Tech**: HTML, CSS, JavaScript")
-        st.write("My digital home base showcasing my background from Virtusa to Texas Tech.")
+        st.write("My digital home base showcasing my background and journey to Texas Tech.")
         st.markdown("[GitHub Repository](https://github.com/MeghanaMareedu13/portfolio-website)")
 
     with st.expander("Day 3: SQL Mastery Repository", expanded=True):
@@ -82,7 +82,7 @@ with tabs[1]:
     st.write("""
     Day 5's cleaning project reminded me that 80% of data work is preparation. 
     Building a reusable framework was a direct response to challenges I've faced in 
-    past internship projects at Virtusa.
+    past technical internship projects.
     """)
 
 with tabs[2]:
